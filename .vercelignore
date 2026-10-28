@@ -1,0 +1,4 @@
+# Only the page (index.html + config.js) is published. The Apps Script code runs on Google.
+apps-script/
+README.md
+.DS_Store
